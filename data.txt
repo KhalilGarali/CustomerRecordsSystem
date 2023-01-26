@@ -3,10 +3,3 @@ Katya|30|49 Queen Mary Road|514 234-7654
 Ahmad|91|1888 Pepper Lane|
 Khalil|20|555 Gabes avenue|5
 Youssef|30|489 Ronaldo avenue|839-383-3414
-ronaldinho|28|anything fam|10
-Nico|50|f u|2210
-Welly|20|tourigny|743982
-Molly|27|yoo|34324
-Jhonny|23|cartier|45234
-test|555|testadress2|5555
-anything|88|990 if|93849
